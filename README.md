@@ -7,7 +7,6 @@
     <h5 align="center">Botem Python para Telegram.</h5>
   </h6>
   <h6 align="center">
-    <a href="https://tcxsproject.com.br"><img src="https://api.codacy.com/project/badge/Grade/b88fde827a5f45b087c7e23854eae4cc" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/python-v3.7-blue.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Versão-v1.0-blue.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Support-Chat-blue.svg" /></a>
