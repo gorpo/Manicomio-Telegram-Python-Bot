@@ -162,8 +162,9 @@ Tutorial: https://youtu.be/1znkn2j9aEg
 Nota
 ~~~~
 
--  Caso encontre algum bug no bot, crie um issue `aqui`_ ou envie /bug +
-   o erro que você está tendo no bot com o comando /bug o bot pode ser encontrado no telegram como @gorpo_bot.
+-  Caso encontre algum bug no bot envie /bug seguido do erro que você está tendo no bot
+
+O bot pode ser encontrado no telegram como @gorpo_bot.
 
 ©2020 - @GorpoOrko
 
