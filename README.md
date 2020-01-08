@@ -1,14 +1,10 @@
 # Telegram-Python-Bot
-Bot em python3 para Telegram 2020!
-
-
-
   <h6 align="center">
     <a href="https://t.me/EduuRobot">
       <img src="https://s3-eu-central-1.amazonaws.com/mobil.nu/wp-content/uploads/2018/05/31214939/telegram-600x315.png" alt="EduuRobot" height="150px">
     </a>
     <h2 align="center">TCXS Project Manicomio Bot V1.0</h2>
-    <h5 align="center">Bot multipropósito em Python para o Telegram.</h5>
+    <h5 align="center">Botem Python para Telegram.</h5>
   </h6>
   <h6 align="center">
     <a href="https://tcxsproject.com.br"><img src="https://api.codacy.com/project/badge/Grade/b88fde827a5f45b087c7e23854eae4cc" /></a>
