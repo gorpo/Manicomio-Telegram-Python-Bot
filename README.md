@@ -13,7 +13,7 @@
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </h6>
 
-https://img.shields.io/badge/python-v3.7-blue
+
 Instalação e execução
 ---------------------
 
@@ -55,7 +55,7 @@ Executando
 -  E pronto! o bot agora está executando.
 -  Agora você pode ir para os sites informados no config.py e conseguir
    as keys para comandos especiais (opcionais).
-   Tutorial: https://youtu.be/1znkn2j9aEg
+ 
    
 Comandos ja incluidos no bot:
 
@@ -154,6 +154,10 @@ E temos muitos mais comandos de zoeira e informativos ocultos!
 /regras - Exibe as regras do grupo.
 /roleta - Para jogar a Roleta Russa.
 
+
+
+
+Tutorial: https://youtu.be/1znkn2j9aEg
 
 Nota
 ~~~~
