@@ -1,7 +1,7 @@
 # Telegram-Python-Bot
 Bot em python3 para Telegram 2020!
 
-.. raw:: html
+
 
   <h6 align="center">
     <a href="https://t.me/EduuRobot">
