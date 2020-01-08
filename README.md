@@ -8,7 +8,7 @@
   </h6>
   <h6 align="center">
     <a href="https://tcxsproject.com.br"><img src="https://api.codacy.com/project/badge/Grade/b88fde827a5f45b087c7e23854eae4cc" /></a>
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Versão-v1.3.1-D7000B.svg" /></a>
+    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Versão-v1.0-D7000B.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Support-Chat-D7000B.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Telegram-Channel-D7000B.svg" /></a>
   </h6>
