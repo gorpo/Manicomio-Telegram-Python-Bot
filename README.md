@@ -7,10 +7,9 @@
     <h5 align="center">Bot em Python para Telegram.</h5>
   </h6>
   <h6 align="center">
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/python-v3.7-blue.svg" /></a>
+    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/php-^7.1.3-blue.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Versão-v1.0-blue.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Support-Chat-blue.svg" /></a>
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </h6>
 
 
