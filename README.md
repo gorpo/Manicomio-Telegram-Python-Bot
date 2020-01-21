@@ -2,7 +2,7 @@
   <h6 align="center">
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
     <a href="https://t.me/">
-      <img src="https://s3-eu-central-1.amazonaws.com/mobil.nu/wp-content/uploads/2018/05/31214939/telegram-600x315.png" alt="" height="150px">
+      
     </a>
     <h2 align="center">TCXS Project Manicomio Bot V1.0</h2>
     <h5 align="center">Bot em Python para Telegram.</h5>
