@@ -1,10 +1,7 @@
 # Telegram-Python-Bot
   <h6 align="center">
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
-    <a href="https://t.me/">
-      
-    </a>
-    <h2 align="center">TCXS Project Manicomio Bot V1.0</h2>
+       <h2 align="center">TCXS Project Manicomio Bot V1.0</h2>
     <h5 align="center">Bot em Python para Telegram.</h5>
   </h6>
  
