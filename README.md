@@ -6,6 +6,9 @@
     <h2 align="center">TCXS Project Manicomio Bot V1.0</h2>
     <h5 align="center">Bot em Python para Telegram.</h5>
   </h6>
+  <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
+
+
   <h6 align="center">
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/php-^7.1.3-blue.svg" /></a>
     <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/Versão-v1.0-blue.svg" /></a>
